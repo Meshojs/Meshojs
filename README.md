@@ -20,6 +20,6 @@
   
   </p>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning** <br>
+- 🌱 I’m currently into **Deep Learning** <br>
 - 📫 How to reach me **mesharyhani2006@gmail.com**<br>
 - Trying to be the best version.
