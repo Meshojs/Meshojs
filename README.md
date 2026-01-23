@@ -1,5 +1,4 @@
 ![Welcome message](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=white&width=1000&lines=Hey%2C+I'm+Mashary+Hani+<3;Welcome+to+my+GitHub+:%29; "Welcome Message")
-## 💫 Some Info
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meshojs&label=Profile%20views&color=0e75b6&style=flat" alt="meshojs" /> </p>
 
 
@@ -21,3 +20,4 @@
 - 🌱 I’m currently into **Deep Learning** <br>
 - 📫 How to reach me **mesharyhani2006@gmail.com**<br>
 - Trying to be the best version.
+<img width="452" height="287" alt="image" src="https://github.com/user-attachments/assets/d598c89e-6d68-41f6-8a99-7574481ca7f3" />
