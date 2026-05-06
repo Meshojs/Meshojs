@@ -20,4 +20,3 @@
 - 🌱 I’m currently into **Deep Learning** <br>
 - 📫 How to reach me **mesharyhani2006@gmail.com**<br>
 - Trying to be the best version.
-<img width="452" height="287" alt="image" src="https://github.com/user-attachments/assets/d598c89e-6d68-41f6-8a99-7574481ca7f3" />
